@@ -33,3 +33,21 @@ TypeScript is a superset of JavaScript
 ⭐==> TypeScript translates an enum to a corresponding IIFE which then introduces into runtime a JavaScript object representation of the enum
 
 ⭐==> Type Narrowing == > Automatically refines the type of a variable within a specific block of code
+
+# Best Practices For Type-Script
+
+⭐ Use Strict Type Checking
+
+⭐ Prefer const and let Over var
+
+⭐ Explicitly Define any Types
+
+⭐ Prefer Type Inference Over Explicit Types
+
+⭐ Use interface for Object Shape Definitions and type for Complex Types
+
+⭐ Use readonly for Immutable Data
+
+⭐ Type Guards for Handling null or undefined
+
+⭐ Use Strict Type Checking
