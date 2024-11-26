@@ -31,3 +31,5 @@ TypeScript is a superset of JavaScript
 ⭐==> Enum is a feature in TypeScript that allows you to define a set of named constants..
 
 ⭐==> TypeScript translates an enum to a corresponding IIFE which then introduces into runtime a JavaScript object representation of the enum
+
+⭐==> Type Narrowing == > Automatically refines the type of a variable within a specific block of code
