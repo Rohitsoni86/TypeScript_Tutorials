@@ -28,3 +28,17 @@ let userNumber = data2 as number;
 userNumber = 44;
 
 console.log("User Number", userNumber);
+
+function processData(data: string | number) {
+	if (typeof data === "string") {
+		// No assertion needed here
+		console.log(data.toUpperCase());
+	} else {
+		// Assert 'data' as a number for calculations
+		let num = data as number;
+		console.log(num.toFixed(2)); // TypeScript now knows 'num' is a number
+	}
+}
+
+processData("hello"); // Outputs "HELLO"
+processData(3.14159); // Outputs "3.14"
