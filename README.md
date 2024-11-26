@@ -27,3 +27,7 @@ TypeScript is a superset of JavaScript
 ⭐==> Never is used when we dont want to declare any explicit return specially for Functions.
 
 ⭐==> Always use Void for functions which has no returns.
+
+⭐==> Enum is a feature in TypeScript that allows you to define a set of named constants..
+
+⭐==> TypeScript translates an enum to a corresponding IIFE which then introduces into runtime a JavaScript object representation of the enum
