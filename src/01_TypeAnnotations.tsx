@@ -122,4 +122,4 @@ type myTypeObject = {
 
 // But in type declaration of naming new contents we cannot use this "type"
 
-// ⭐⭐ So Always Use Interfaces
+// ⭐⭐ So Always Use Interfaces for object declartions
