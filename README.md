@@ -36,18 +36,18 @@ TypeScript is a superset of JavaScript
 
 # Best Practices For Type-Script
 
-⭐ Use Strict Type Checking
+📍 Use Strict Type Checking
 
-⭐ Prefer const and let Over var
+📍 Prefer const and let Over var
 
-⭐ Explicitly Define any Types
+📍 Explicitly Define any Types
 
-⭐ Prefer Type Inference Over Explicit Types
+📍 Prefer Type Inference Over Explicit Types
 
-⭐ Use interface for Object Shape Definitions and type for Complex Types
+📍 Use interface for Object Shape Definitions and type for Complex Types
 
-⭐ Use readonly for Immutable Data
+📍 Use readonly for Immutable Data
 
-⭐ Type Guards for Handling null or undefined
+📍 Type Guards for Handling null or undefined
 
-⭐ Use Strict Type Checking
+📍 Use Strict Type Checking
